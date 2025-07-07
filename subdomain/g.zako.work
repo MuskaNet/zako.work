@@ -1,3 +1,4 @@
 domain: g.zako.work
 zako:   GUODONG-ZAKO
-cname:  zako.gdy1025.eu.org
+ns1:  freedns1.registrar-servers.com
+ns1:  freedns2.registrar-servers.com
