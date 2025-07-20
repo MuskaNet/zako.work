@@ -1,4 +1,4 @@
 domain: lava.zako.work
 zako:   CamLux
 cname:  k1.ungc.com.cn
-
+srv:    _minecraft._tcp/22935
