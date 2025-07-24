@@ -1,4 +1,4 @@
 domain: mcjava.zako.work
 zako: CtrlCreeper
 a: 47.92.28.8
-srv: _minecraft._tcp.mcbnds.zako.work. 86400 IN SRV 0 5 25565 mcjava.zako.work.
+srv: _minecraft._tcp.mcbnds.zako.work. 86400 IN SRV 0 5 10110 mcjava.zako.work.
