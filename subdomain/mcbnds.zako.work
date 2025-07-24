@@ -1,3 +1,4 @@
 domain: mcjava.zako.work
 zako: CtrlCreeper
-cmake: www.u587378.nyat.app
+a: 47.92.28.8
+srv: _minecraft._tcp.mcbnds.zako.work. 86400 IN SRV 0 5 25565 mcjava.zako.work.
