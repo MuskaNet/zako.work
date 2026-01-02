@@ -1,0 +1,3 @@
+zako:   HINS
+site:   onenav.hisnwu.dpdns.org # 可选的
+remark: 联系：n3532284407@163.com        # 如果你希望添加多个注释，只需要换行并以 `remark:` 开头即可。
